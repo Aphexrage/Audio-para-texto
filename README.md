@@ -1,2 +1,3 @@
-# Audio-para-texto
-Protótipo de bot que transcreve áudio para texto
+# Projeto audio para texto
+
+Estou desenvolvendo um sistema inteligente de transcrição de áudio que detecta e classifica dois tipos principais de indicadores no ambiente: barulhos gerais e vozes humanas. O foco do algoritmo é identificar a presença de fala e, ao detectar a voz de uma pessoa, ele automaticamente grava e transcreve o que foi dito, atribuindo a fala ao nome da pessoa (caso ela tenha sido previamente identificada). Assim, sempre que alguém falar, o sistema exibirá a transcrição de forma clara, como 'Nome da Pessoa: Fala'. O objetivo é criar uma ferramenta acessível para pessoas com deficiência auditiva, permitindo a elas acompanhar interações e sons do ambiente em tempo real.
