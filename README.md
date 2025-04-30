@@ -28,7 +28,7 @@ O algoritmo identifica dois tipos principais de som no ambiente:
 - 🔊 **Barulhos gerais**
 - 🗣️ **Vozes humanas**
 
-Ao detectar barulhos gereais:
+Ao detectar barulhos gerais:
 
   - Mostra ao usuario o nome do som.
 
